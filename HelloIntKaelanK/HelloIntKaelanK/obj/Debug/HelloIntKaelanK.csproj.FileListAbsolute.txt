@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Introduction\HelloIntKaelanK\HelloIntKaelanK\bin\Debug\HelloIntKaelanK.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Introduction\HelloIntKaelanK\HelloIntKaelanK\bin\Debug\HelloIntKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Introduction\HelloIntKaelanK\HelloIntKaelanK\bin\Debug\HelloIntKaelanK.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Introduction\HelloIntKaelanK\HelloIntKaelanK\obj\Debug\HelloIntKaelanK.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Introduction\HelloIntKaelanK\HelloIntKaelanK\obj\Debug\HelloIntKaelanK.frmHelloInt.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Introduction\HelloIntKaelanK\HelloIntKaelanK\obj\Debug\HelloIntKaelanK.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Introduction\HelloIntKaelanK\HelloIntKaelanK\obj\Debug\HelloIntKaelanK.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Introduction\HelloIntKaelanK\HelloIntKaelanK\obj\Debug\HelloIntKaelanK.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Introduction\HelloIntKaelanK\HelloIntKaelanK\obj\Debug\HelloIntKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Introduction\HelloIntKaelanK\HelloIntKaelanK\obj\Debug\HelloIntKaelanK.pdb
