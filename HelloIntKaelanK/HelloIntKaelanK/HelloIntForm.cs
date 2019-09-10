@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Kaelan K.
+ * Created on: 09-09-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #6 - HelloInt
+ * This program says hello world in 4 different languages
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
