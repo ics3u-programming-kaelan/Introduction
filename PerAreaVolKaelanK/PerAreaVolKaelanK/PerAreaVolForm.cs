@@ -31,18 +31,20 @@ namespace PerAreaVolKaelanK
 
         }
 
-
+        // calculates perimeter once clicked
         private void BtnQPerimeter_Click(object sender, EventArgs e)
         {
             lblAPerimeter.Text = Convert.ToString(8 + 8 + 5 + 5) + " cm";
         }
 
+
+        // calculates area once clicked
         private void Button1_Click(object sender, EventArgs e)
         {
             lblAArea.Text = Convert.ToString(Math.PI * Math.Pow(7,2)) + " cm²";
         }
 
-        //
+        // Calculates the volume once clicked
         private void BtnQVolume_Click(object sender, EventArgs e)
         {
             lblAVolume.Text = Convert.ToString((double)4 / (double)3 * Math.PI * Math.Pow(4,3)) + " cm³";
